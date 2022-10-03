@@ -102,3 +102,20 @@ button{
     width: 95%;
 
 }
+i{
+    font-size: 40px;
+    color: purple;
+}
+
+#sub_icons{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr  ;
+    text-align: center;
+    font-size: 15px;
+    
+}
+
+.selected{
+    border-bottom: solid gray 3px;
+    
+}
